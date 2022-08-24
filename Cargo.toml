@@ -1,9 +1,13 @@
 [package]
 name = "ternary-operator-macro"
-version = "0.1.0"
+version = "0.0.1"
 edition = "2021"
 description = "rust"
 authors = ["zhubby yanvalue@gmail.com"]
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+repository = "https://github.com/zhubby/ternary-operator-macro"
+keywords = ["macro"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
